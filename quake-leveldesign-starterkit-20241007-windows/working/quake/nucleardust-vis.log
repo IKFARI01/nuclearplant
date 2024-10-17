@@ -1,0 +1,22 @@
+---- vis / ericw-tools 2.0.0-alpha8-32-g47faf6c0 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+LoadBSPFile: 'nucleardust.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+   110 leafs
+   110 clusters
+   240 portals
+Calculating Base Vis:
+Calculating Full Vis:
+Expanding clusters...
+average leafs visible: 34
+c_noclip: 0
+c_chains: 15096
+visdatasize:1340  compressed from 1540
+Writing nucleardust.bsp as Quake BSP bsp29
+0.02s elapsed
+
+

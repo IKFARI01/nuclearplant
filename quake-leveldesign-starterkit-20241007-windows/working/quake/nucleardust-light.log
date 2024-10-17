@@ -1,0 +1,98 @@
+---- light / ericw-tools 2.0.0-alpha8-32-g47faf6c0 ----
+LoadBSPFile: 'nucleardust.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+img::ConvertTextures: WARNING: invalid size data for 
+img::ConvertTextures: WARNING: Texture  duplicated
+img::ConvertTextures: WARNING: Texture  duplicated
+img::ConvertTextures: WARNING: Texture  duplicated
+img::ConvertTextures: WARNING: Texture  duplicated
+Loading extended texinfo flags from nucleardust.texinfo.json...
+WARNING: entity at () (worldspawn) has empty key/value "worldtype" ""
+WARNING: entity at (-144 60 160) (weapon_nailgun) has empty key/value "targetname" ""
+WARNING: entity at (-144 60 160) (weapon_nailgun) has empty key/value "target" ""
+WARNING: entity at (0 -276 160) (item_health) has empty key/value "targetname" ""
+WARNING: entity at (0 -276 160) (item_health) has empty key/value "target" ""
+WARNING: entity at (176 -420 160) (item_armorInv) has empty key/value "targetname" ""
+WARNING: entity at (176 -420 160) (item_armorInv) has empty key/value "target" ""
+WARNING: entity at (288 -148 160) (item_spikes) has empty key/value "targetname" ""
+WARNING: entity at (288 -148 160) (item_spikes) has empty key/value "target" ""
+WARNING: entity at (96 -52 160) (item_health) has empty key/value "targetname" ""
+WARNING: entity at (96 -52 160) (item_health) has empty key/value "target" ""
+WARNING: entity at (672 140 128) (item_rockets) has empty key/value "targetname" ""
+WARNING: entity at (672 140 128) (item_rockets) has empty key/value "target" ""
+WARNING: entity at (1184 -564 128) (item_rockets) has empty key/value "targetname" ""
+WARNING: entity at (1184 -564 128) (item_rockets) has empty key/value "target" ""
+WARNING: entity at (1280 -628 128) (item_rockets) has empty key/value "targetname" ""
+WARNING: entity at (1280 -628 128) (item_rockets) has empty key/value "target" ""
+WARNING: entity at (1200 156 128) (weapon_rocketlauncher) has empty key/value "targetname" ""
+WARNING: entity at (1200 156 128) (weapon_rocketlauncher) has empty key/value "target" ""
+WARNING: entity at (1088 908 128) (item_shells) has empty key/value "targetname" ""
+WARNING: entity at (1088 908 128) (item_shells) has empty key/value "target" ""
+WARNING: entity at (1376 780 128) (item_health) has empty key/value "targetname" ""
+WARNING: entity at (1376 780 128) (item_health) has empty key/value "target" ""
+WARNING: entity at (1344 -1236 640) (item_health) has empty key/value "targetname" ""
+WARNING: entity at (1344 -1236 640) (item_health) has empty key/value "target" ""
+WARNING: entity at (1488 -36 160) (weapon_supernailgun) has empty key/value "targetname" ""
+WARNING: entity at (1488 -36 160) (weapon_supernailgun) has empty key/value "target" ""
+WARNING: entity at (1632 -180 160) (item_spikes) has empty key/value "targetname" ""
+WARNING: entity at (1632 -180 160) (item_spikes) has empty key/value "target" ""
+WARNING: entity at (1440 -628 160) (item_health) has empty key/value "targetname" ""
+WARNING: entity at (1440 -628 160) (item_health) has empty key/value "target" ""
+WARNING: entity at (224 -148 160) (item_shells) has empty key/value "targetname" ""
+WARNING: entity at (224 -148 160) (item_shells) has empty key/value "target" ""
+WARNING: entity at (-112 -292 184) (info_player_start) has empty key/value "targetname" ""
+WARNING: entity at (-112 -292 184) (info_player_start) has empty key/value "target" ""
+WARNING: brush entity with mins [737 13 1] maxs [895 171 127] (trigger_hurt) has empty key/value "targetname" ""
+WARNING: brush entity with mins [737 13 1] maxs [895 171 127] (trigger_hurt) has empty key/value "target" ""
+WARNING: entity at (480 -404 128) (item_health) has empty key/value "targetname" ""
+WARNING: entity at (480 -404 128) (item_health) has empty key/value "target" ""
+WARNING: entity at (376 -456 186) (info_player_start) has empty key/value "targetname" ""
+WARNING: entity at (376 -456 186) (info_player_start) has empty key/value "target" ""
+WARNING: entity at (1384 -1244 156) (info_player_start) has empty key/value "targetname" ""
+WARNING: entity at (1384 -1244 156) (info_player_start) has empty key/value "target" ""
+WARNING: entity at (1468 -572 188) (info_player_deathmatch) has empty key/value "targetname" ""
+WARNING: entity at (1468 -572 188) (info_player_deathmatch) has empty key/value "target" ""
+WARNING: entity at (272 152 186) (info_player_deathmatch) has empty key/value "targetname" ""
+WARNING: entity at (272 152 186) (info_player_deathmatch) has empty key/value "target" ""
+WARNING: entity at (484 -492 380) (info_player_deathmatch) has empty key/value "targetname" ""
+WARNING: entity at (484 -492 380) (info_player_deathmatch) has empty key/value "target" ""
+WARNING: entity at (1092 -396 668) (info_player_deathmatch) has empty key/value "targetname" ""
+WARNING: entity at (1092 -396 668) (info_player_deathmatch) has empty key/value "target" ""
+WARNING: entity at (380 -480 184) (info_player_deathmatch) has empty key/value "targetname" ""
+WARNING: entity at (380 -480 184) (info_player_deathmatch) has empty key/value "target" ""
+WARNING: entity at (-136 -316 184) (info_player_deathmatch) has empty key/value "targetname" ""
+WARNING: entity at (-136 -316 184) (info_player_deathmatch) has empty key/value "target" ""
+WARNING: entity at (272 144 186) (info_player_deathmatch) has empty key/value "targetname" ""
+WARNING: entity at (272 144 186) (info_player_deathmatch) has empty key/value "target" ""
+WARNING: entity at (476 -532 376) (info_player_deathmatch) has empty key/value "targetname" ""
+WARNING: entity at (476 -532 376) (info_player_deathmatch) has empty key/value "target" ""
+WARNING: entity at (1116 -364 664) (info_player_deathmatch) has empty key/value "targetname" ""
+WARNING: entity at (1116 -364 664) (info_player_deathmatch) has empty key/value "target" ""
+WARNING: brush entity with mins [1681 1 161] maxs [1775 43 319] (trigger_teleport) has empty key/value "targetname" ""
+WARNING: brush entity with mins [97 -355 161] maxs [239 -321 319] (trigger_teleport) has empty key/value "targetname" ""
+35 entities read, 0 are lights.
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Embree_TraceInit: Embree version: 3.12.1
+Embree_TraceInit: 
+	0 sky faces
+	721 solid faces
+	0 filtered faces
+	0 shadow-casting skip faces
+SetupLights: 0 initial lights
+SetupLights: 0 after surface lights
+SetupLights: 0 after jittering
+Final count: 0 lights, 0 suns in use.
+0 surface light points in use.
+lightmap size (total): 0
+Lighting Completed.
+
+0 switchable light styles (32 max)
+Writing nucleardust.bsp as Quake BSP bsp29
+0.013s seconds elapsed
+0 empty lightmaps
+
+
