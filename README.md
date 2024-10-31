@@ -1,4 +1,6 @@
 # Nuclear Dust
+Made By Isabella Faris
+
 A Multiplayer Deathmatch Quake Map for 6-8 Players
 
 A decommissioned nuclear plant is left abandoned, stopped after a terrible explosion in the chamber.
