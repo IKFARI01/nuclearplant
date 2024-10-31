@@ -6,17 +6,17 @@
 LoadBSPFile: 'nucleardust.bsp'
 BSP is version Quake BSP bsp29
 INFO: using built-in palette.
-   110 leafs
-   110 clusters
-   240 portals
+   105 leafs
+    99 clusters
+   215 portals
 Calculating Base Vis:
 Calculating Full Vis:
 Expanding clusters...
-average leafs visible: 34
+average leafs visible: 32
 c_noclip: 0
-c_chains: 15271
-visdatasize:1339  compressed from 1540
+c_chains: 11774
+visdatasize:1150  compressed from 1470
 Writing nucleardust.bsp as Quake BSP bsp29
-0.02s elapsed
+0.03s elapsed
 
 

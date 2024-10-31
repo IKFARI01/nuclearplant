@@ -3,8 +3,8 @@
 --- Options Summary ---
     "nocolor" was set to "1" (from command line)
 
-Input file: C:\Users\IKFar\Downloads\quake-leveldesign-starterkit-20241007-windows\working\quake\nucleardust.map
-Output file: C:\Users\IKFar\Downloads\quake-leveldesign-starterkit-20241007-windows\working\quake\nucleardust.bsp
+Input file: C:\Users\IKFar\OneDrive\Documents\GitHub\nuclearplant\quake-leveldesign-starterkit-20241007-windows\working\quake\nucleardust.map
+Output file: C:\Users\IKFar\OneDrive\Documents\GitHub\nuclearplant\quake-leveldesign-starterkit-20241007-windows\working\quake\nucleardust.bsp
 
 INFO: using built-in palette.
 fs::addArchive: WARNING: archive 'C:/Users/IKFar/Downloads/jam2_ikwhite.wad' not found
@@ -100,6 +100,6 @@ count   lump name    byte size
         visdata               0
         entdata            3153
 
-0.105s seconds elapsed
+0.190s seconds elapsed
 
 

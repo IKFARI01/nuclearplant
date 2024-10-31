@@ -1,0 +1,89 @@
+---- qbsp / ericw-tools 2.0.0-alpha8-32-g47faf6c0 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Input file: C:\Users\IKFar\OneDrive\Documents\GitHub\nuclearplant\quake-leveldesign-starterkit-20241007-windows\working\quake\nucleardust-compile.map
+Output file: C:\Users\IKFar\OneDrive\Documents\GitHub\nuclearplant\quake-leveldesign-starterkit-20241007-windows\working\quake\nucleardust-compile.bsp
+
+INFO: using built-in palette.
+     42 entities
+     29 unique textures
+    423 texinfos
+    380 unique planes
+
+INFO: world extents calculated to 3848 units
+    108 brushes
+    644 sides
+     92 side bevels
+
+            0 texture frames added
+WARNING: unable to find texture skip
+WARNING: unable to find texture __TB_empty
+Processing hull 0...
+    104 SOLID brushes
+    104 brushes total
+    620 visible sides
+INFO: calculating BSP for 104 brushes with 620 sides
+    104 brushes
+    485 visible faces
+    135 non-visible faces
+    1,072 nodes
+      190 non-visible nodes
+      824 expensive split nodes
+      248 mid-split nodes
+    1,073 leaves
+      489 EMPTY leafs
+      584 SOLID leafs
+    1,073 leafs total
+    26 max tree height
+    13 avg tree height
+    1 tiny portals
+    4,417 tree portals
+WARNING: Reached occupant "item_shells" at (816 128 639.354), no filling performed.
+Leak file written to nucleardust-compile.pts
+           11 portals written to nucleardust-compile.leak.prt
+    1 tiny portals
+    4,417 tree portals
+    1,350 sides visible
+    1,350 makefaces
+      264 merged
+      456 subdivided
+    168 nodes pruned
+    489 EMPTY leafs
+    416 SOLID leafs
+    905 leafs total
+    25 max tree height
+    12 avg tree height
+    1,041 edges added by tjunctions
+    1,353 faces optimized through MWT
+    3,766 triangles computed from MWT
+      261 faces created via optimization of MWT triangles
+    3,647 edges
+    1,641 faces
+Processing hull 1...
+Processing hull 2...
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 237 >= 127)
+Writing nucleardust-compile.bsp as Quake BSP bsp29
+Wrote nucleardust-compile.bsp
+
+count   lump name    byte size 
+      5 models              320
+    398 planes             7960
+   1981 vertexes          23772
+    928 nodes             22272
+    278 texinfos          11120
+   1665 faces             33300
+    689 clipnodes          5512
+    518 leafs             14504
+   1944 marksurfaces       3888
+   3696 edges             14784
+   7171 surfedges         28684
+     29 textures         191600
+        lightdata             0
+        visdata               0
+        entdata            3818
+
+0.099s seconds elapsed
+
+

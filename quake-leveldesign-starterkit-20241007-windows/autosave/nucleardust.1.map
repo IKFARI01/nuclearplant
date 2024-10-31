@@ -938,6 +938,15 @@
 ( 1824 60 352 ) ( 1825 60 352 ) ( 1824 60 359 ) __TB_empty [ -1 0 0 0 ] [ 0 0 -0.14285714285714288 -0.7142868 ] 270 1 1
 ( 1824 60 352 ) ( 1824 60 359 ) ( 1824 61 352 ) __TB_empty [ 0 1 0 -12 ] [ 0 0 -0.14285714285714288 -0.7142868 ] 270 1 1
 }
+// brush 104
+{
+( 736 12 0 ) ( 736 13 0 ) ( 736 12 8 ) iktkfl08 [ 0 -1 0 12 ] [ 0 0 -0.12500000000000003 -48 ] 180 1 1
+( 736 12 0 ) ( 736 12 8 ) ( 737 12 0 ) iktkfl08 [ 1 0 0 0 ] [ 0 0 -0.12500000000000003 -48 ] 180 1 1
+( 736 12 0 ) ( 737 12 0 ) ( 736 13 0 ) iktkfl08 [ -1 0 0 0 ] [ 0 -1 0 12 ] 180 1 1
+( 896 172 128 ) ( 896 173 128 ) ( 897 172 128 ) iktkfl08 [ 1 0 0 0 ] [ 0 -1 0 12 ] 180 1 1
+( 896 172 128 ) ( 897 172 128 ) ( 896 172 136 ) iktkfl08 [ -1 0 0 0 ] [ 0 0 -0.12500000000000003 -48 ] 180 1 1
+( 896 172 128 ) ( 896 172 136 ) ( 896 173 128 ) iktkfl08 [ 0 1 0 -12 ] [ 0 0 -0.12500000000000003 -48 ] 180 1 1
+}
 }
 // entity 1
 {
@@ -1061,62 +1070,47 @@
 }
 // entity 18
 {
-"classname" "trigger_hurt"
-"targetname" ""
-"target" ""
-// brush 0
-{
-( 736 12 0 ) ( 736 13 0 ) ( 736 12 8 ) iktkfl08 [ 0 -1 0 12 ] [ 0 0 -0.12500000000000003 -48 ] 180 1 1
-( 736 12 0 ) ( 736 12 8 ) ( 737 12 0 ) iktkfl08 [ 1 0 0 0 ] [ 0 0 -0.12500000000000003 -48 ] 180 1 1
-( 736 12 0 ) ( 737 12 0 ) ( 736 13 0 ) iktkfl08 [ -1 0 0 0 ] [ 0 -1 0 12 ] 180 1 1
-( 896 172 128 ) ( 896 173 128 ) ( 897 172 128 ) iktkfl08 [ 1 0 0 0 ] [ 0 -1 0 12 ] 180 1 1
-( 896 172 128 ) ( 897 172 128 ) ( 896 172 136 ) iktkfl08 [ -1 0 0 0 ] [ 0 0 -0.12500000000000003 -48 ] 180 1 1
-( 896 172 128 ) ( 896 172 136 ) ( 896 173 128 ) iktkfl08 [ 0 1 0 -12 ] [ 0 0 -0.12500000000000003 -48 ] 180 1 1
-}
-}
-// entity 19
-{
 "classname" "item_health"
 "origin" "480 -404 128"
 "targetname" ""
 "target" ""
 }
-// entity 20
+// entity 19
 {
 "classname" "info_player_start"
 "origin" "376 -456 186"
 "targetname" ""
 "target" ""
 }
-// entity 21
+// entity 20
 {
 "classname" "info_player_start"
 "origin" "1384 -1244 156"
 "targetname" ""
 "target" ""
 }
-// entity 22
+// entity 21
 {
 "classname" "info_player_deathmatch"
 "origin" "1468 -572 188"
 "targetname" ""
 "target" ""
 }
-// entity 23
+// entity 22
 {
 "classname" "info_player_deathmatch"
 "origin" "272 152 186"
 "targetname" ""
 "target" ""
 }
-// entity 24
+// entity 23
 {
 "classname" "info_player_deathmatch"
 "origin" "492 -468 380"
 "targetname" ""
 "target" ""
 }
-// entity 25
+// entity 24
 {
 "classname" "info_player_deathmatch"
 "origin" "1176 -1138 668"
@@ -1124,35 +1118,35 @@
 "target" ""
 "angle" "60"
 }
-// entity 26
+// entity 25
 {
 "classname" "info_player_deathmatch"
 "origin" "380 -480 184"
 "targetname" ""
 "target" ""
 }
-// entity 27
+// entity 26
 {
 "classname" "info_player_deathmatch"
 "origin" "-136 -316 184"
 "targetname" ""
 "target" ""
 }
-// entity 28
+// entity 27
 {
 "classname" "info_player_deathmatch"
 "origin" "272 144 186"
 "targetname" ""
 "target" ""
 }
-// entity 29
+// entity 28
 {
 "classname" "info_player_deathmatch"
 "origin" "476 -532 376"
 "targetname" ""
 "target" ""
 }
-// entity 30
+// entity 29
 {
 "classname" "info_player_deathmatch"
 "origin" "1180 -1168 664"
@@ -1160,7 +1154,7 @@
 "target" ""
 "angle" "90"
 }
-// entity 31
+// entity 30
 {
 "classname" "trigger_teleport"
 "targetname" ""
@@ -1175,7 +1169,7 @@
 ( 1776 0 320 ) ( 1776 44 320 ) ( 1776 44 160 ) *slimeik1 [ 0 0.7272727272727273 0 0 ] [ 0 0 -0.10000000000000006 -32 ] 90 1 0.2
 }
 }
-// entity 32
+// entity 31
 {
 "classname" "trigger_teleport"
 "targetname" ""
@@ -1190,19 +1184,26 @@
 ( 248 -356 320 ) ( 248 -336 320 ) ( 248 -336 160 ) *slimeik2 [ 0 0.8 0 44.799988 ] [ 0 0 0.10000000000000003 32 ] 270 1 0.1
 }
 }
-// entity 33
+// entity 32
 {
 "classname" "info_teleport_destination"
 "origin" "164 -282 186.5"
 "targetname" "teleport1"
 "angle" "90"
 }
-// entity 34
+// entity 33
 {
 "classname" "info_teleport_destination"
 "origin" "1734 -16 230"
 "angle" "270"
 "targetname" "teleport2"
+}
+// entity 34
+{
+"classname" "info_player_deathmatch"
+"origin" "492 -468 380"
+"targetname" ""
+"target" ""
 }
 // entity 35
 {
@@ -1213,33 +1214,26 @@
 }
 // entity 36
 {
-"classname" "info_player_deathmatch"
-"origin" "492 -468 380"
-"targetname" ""
-"target" ""
-}
-// entity 37
-{
 "classname" "item_health"
 "origin" "928 0 640"
 }
-// entity 38
+// entity 37
 {
 "classname" "item_shells"
 "origin" "816 128 639.354"
 }
-// entity 39
+// entity 38
 {
 "classname" "info_player_start"
 "origin" "848 -144 663.354"
 }
-// entity 40
+// entity 39
 {
 "classname" "info_player_deathmatch"
 "origin" "848 -128 663.354"
 "angle" "45"
 }
-// entity 41
+// entity 40
 {
 "classname" "func_plat"
 // brush 0

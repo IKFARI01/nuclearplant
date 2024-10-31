@@ -1,0 +1,13 @@
+---- vis / ericw-tools 2.0.0-alpha8-32-g47faf6c0 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+LoadBSPFile: 'nucleardust-compile.bsp'
+BSP is version Quake BSP bsp29
+INFO: using built-in palette.
+************ ERROR ************
+LoadPrtFile: unknown header/empty portal file nucleardust-compile.prt
+
+
+

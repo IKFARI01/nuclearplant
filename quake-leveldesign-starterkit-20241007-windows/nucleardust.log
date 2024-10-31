@@ -1,0 +1,109 @@
+---- qbsp / ericw-tools 2.0.0-alpha8-32-g47faf6c0 ----
+
+--- Options Summary ---
+    "nocolor" was set to "1" (from command line)
+
+Input file: C:\Users\IKFar\OneDrive\Documents\GitHub\nuclearplant\quake-leveldesign-starterkit-20241007-windows\nucleardust-compile.map
+Output file: C:\Users\IKFar\OneDrive\Documents\GitHub\nuclearplant\quake-leveldesign-starterkit-20241007-windows\nucleardust.bsp
+
+INFO: using built-in palette.
+    451 entities
+     34 unique textures
+    424 texinfos
+    366 unique planes
+
+INFO: world extents calculated to 3848 units
+    105 brushes
+    626 sides
+     92 side bevels
+
+            0 texture frames added
+WARNING: unable to find texture skip
+WARNING: unable to find texture __TB_empty
+Processing hull 0...
+     99 SOLID brushes
+      2 SLIME | Q2_UNUSED_8 brushes
+    101 brushes total
+    602 visible sides
+INFO: calculating BSP for 101 brushes with 602 sides
+    101 brushes
+    516 visible faces
+     86 non-visible faces
+    1,505 nodes
+      143 non-visible nodes
+    1,183 expensive split nodes
+      322 mid-split nodes
+    1,506 leaves
+        3 SLIME | Q2_UNUSED_8 leafs
+      638 EMPTY leafs
+      865 SOLID leafs
+    1,506 leafs total
+    23 max tree height
+    13 avg tree height
+    6 tiny portals
+    5,923 tree portals
+    321 outside leaves
+    0 detail filled leafs
+    101 brushes
+    232 visible faces
+    370 non-visible faces
+    569 nodes
+    259 non-visible nodes
+    569 expensive split nodes
+    570 leaves
+      2 SLIME | Q2_UNUSED_8 leafs
+    228 EMPTY leafs
+    340 SOLID leafs
+    570 leafs total
+    29 max tree height
+    14 avg tree height
+    2,572 tree portals
+    125 outside leaves
+    0 detail filled leafs
+    2,572 tree portals
+    589 sides visible
+    583 makefaces
+    176 merged
+    316 subdivided
+    333 nodes pruned
+    105 player-occupiable leaves
+     99 clusters of leaves
+    215 vis portals
+    132 SOLID leafs
+    103 EMPTY leafs
+      2 SLIME | Q2_UNUSED_8 leafs
+    237 leafs total
+    29 max tree height
+    15 avg tree height
+      760 edges added by tjunctions
+      701 faces optimized through MWT
+    2,169 triangles computed from MWT
+      219 faces created via optimization of MWT triangles
+    2,052 edges
+      940 faces
+Processing hull 1...
+Processing hull 2...
+WARNING: worldspawn at 0 0 0 has long value for key wad (length 237 >= 127)
+Writing nucleardust.bsp as Quake BSP bsp29
+Wrote nucleardust.bsp
+
+count   lump name    byte size 
+      5 models              320
+    378 planes             7560
+   1115 vertexes          13380
+    260 nodes              6240
+    209 texinfos           8360
+    964 faces             19280
+    766 clipnodes          6128
+    134 leafs              3752
+   1166 marksurfaces       2332
+   2101 edges              8404
+   4165 surfedges         16660
+     34 textures         267980
+        lightdata             0
+        visdata               0
+        entdata           25949
+
+0.219s seconds elapsed
+
+
